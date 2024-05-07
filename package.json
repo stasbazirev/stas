@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/stasbazirev/stas.git" 
   },
   "keywords": [ 
     "", 
     "",
     ""
   ],
-  "author": "", 
+  "author": "stasbazirev", 
   "license": "MIT"
 }
